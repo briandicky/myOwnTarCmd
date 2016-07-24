@@ -1,5 +1,6 @@
-#myTarCmd
-This program is similar to the tar command. The test data test.tar can be found in the directory.
+#myOwnTarCmd
+This program is similar to the tar command and it is written in C++ to list the contents of a TAR file.
+The test data test.tar can be found in the directory.
 
 ##How to run this program
 This program is used with Linux, Gnu make, and GCC (Gnu compiler collection).

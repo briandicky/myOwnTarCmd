@@ -10,7 +10,7 @@ main.o: main.cpp
 	g++ -c -Wall main.cpp
 
 dep:
-	echo "hi"
+	g++ -M *.cpp > .depend
 
 clean:
-	rm -f mosTar *.o
+	rm -f mosTar *.o .depend

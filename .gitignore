@@ -31,5 +31,7 @@
 *.out
 *.app
 
-# pdf file
+# Else
 *.pdf
+*.depend
+*.tar
